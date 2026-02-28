@@ -1,2 +1,2 @@
 # SQL-STUDY-GROUP-Hands-On-1
-So the journey has been fun, challenging and yet interesting....Having to work through schemas, creating tables, writing my first queries and having my hands on project
+This project is on the retrieval of information from the eployees dataset using the basic command keys and filtering the employees dataset using clauses like; WHERE, BTWEEN, AND,DISTINCT, ORDER BY, LIKE and IN to return required information about the dataset.
